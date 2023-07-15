@@ -1,0 +1,16 @@
+<application>
+  <component name="EqualsHashCodeTemplates" defaultTemplateName="java.util.Objects.equals and hashCode (java 7+) equals">
+    <option name="templates">
+      <list>
+        <TemplateResource>
+          <option name="fileName" value="ref equals" />
+          <option name="template" value="   @Override&#10;public boolean equals(##) {&#10; return EqualsBuilder.reflectionEquals(this, o);&#10;    }&#10;&#10;" />
+        </TemplateResource>
+        <TemplateResource>
+          <option name="fileName" value="ref hashCode" />
+          <option name="template" value="    @Override&#10;    public int hashCode() {&#10;        return HashCodeBuilder.reflectionHashCode(this);&#10;        }" />
+        </TemplateResource>
+      </list>
+    </option>
+  </component>
+</application>

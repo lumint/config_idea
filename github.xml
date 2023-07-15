@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="lumint" id="28639cd9-8bfb-4d72-b83b-0c90393b1ff2">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

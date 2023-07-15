@@ -1,0 +1,55 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectCodeStyleConfiguration">
+        <option name="PREFERRED_PROJECT_CODE_STYLE" value="KuaishouStyle" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Cucumber</id>
+              </State>
+              <State>
+                <id>EditorConfig</id>
+              </State>
+              <State>
+                <id>General</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>PortabilityJava</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="fileTemplates" />
+      </component>
+      <component name="YarnPnpManager">
+        <pnp-files />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

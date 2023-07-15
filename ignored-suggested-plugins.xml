@@ -1,0 +1,16 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="aws.toolkit" />
+        <option value="com.intellij.bigdatatools" />
+        <option value="com.jetbrains.restWebServices" />
+        <option value="com.intellij.spring.mvc" />
+        <option value="com.intellij.thymeleaf" />
+        <option value="com.intellij.javaee.web" />
+        <option value="com.intellij.spring" />
+        <option value="Lombook Plugin" />
+      </list>
+    </option>
+  </component>
+</application>
